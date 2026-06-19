@@ -13,17 +13,13 @@
   <code>public-safe synthetic data</code>
 </p>
 
-## Portfolio Role
-
-This is the most visually ambitious system in the portfolio. It is the repo that most clearly signals trader-workstation thinking: live state, changing numbers, hedge actions, and dense terminal-style layout.
-
 ## Preview
 
 ![Synthetic market maker terminal](assets/terminal-home.png)
 
 ## What This Project Is
 
-This repo is a public-safe product demo inspired by internal market-making systems.
+This repo is a synthetic trading workstation demo inspired by market-making workflows.
 
 It focuses on:
 
@@ -34,7 +30,7 @@ It focuses on:
 5. a manual hedge ticket and basket override workflow
 6. dense terminal-style tables and event feeds around the trader workflow
 
-## Why This Version Is Stronger
+## Workflow Focus
 
 This tells a more realistic story than a basic trading page because it shows:
 
@@ -52,7 +48,7 @@ This tells a more realistic story than a basic trading page because it shows:
 | `Trader Console` | Hedge selected symbol or region, send a manual hedge ticket, and override basket mapping |
 | `Regional Risk` | Hedge basket positions and region-level post-hedge exposure |
 | `Live ISIN Board` | Dense table for the whole synthetic book, closer to a real front-end terminal |
-| `cover.py` | Screenshot-friendly landing page for README and portfolio use |
+| `cover.py` | Landing page for the repository preview image |
 
 ## Quick Start
 
@@ -89,9 +85,3 @@ synthetic-trading-system/
 - The goal is to demonstrate internal-tool and trader-workstation product design, not reproduce proprietary company logic.
 - The live feed uses timed page refresh so the system feels active and continuously monitored.
 - The app is intentionally single-page so it feels like a terminal, not a multi-page dashboard site.
-
-## Screenshot Strategy
-
-- use `cover.py` for the README hero image
-- use one full-screen shot of `app.py` showing `Market Moving`, `ISIN Changes`, and the trader console together
-- crop screenshots tightly so the app reads like a terminal, not like a generic browser page
