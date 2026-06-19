@@ -17,20 +17,20 @@
 
 ![Synthetic market maker terminal](assets/terminal-home.png)
 
-## What This Project Is
+## Overview
 
 This repo is a synthetic trading workstation demo inspired by market-making workflows.
 
-It focuses on:
+## Highlights
 
-1. a live `Market Moving` panel showing regional synthetic market motion
-2. an `ISIN Changes` panel showing selected symbol drift over time
-3. synthetic inventory drift from market-making flow
-4. symbol-level and region-level hedge actions
-5. a manual hedge ticket and basket override workflow
-6. dense terminal-style tables and event feeds around the trader workflow
+- a live `Market Moving` panel showing regional synthetic market motion
+- an `ISIN Changes` panel showing selected symbol drift over time
+- synthetic inventory drift from market-making flow
+- symbol-level and region-level hedge actions
+- a manual hedge ticket and basket override workflow
+- dense terminal-style tables and event feeds around the trader workflow
 
-## Workflow Focus
+## Why It Reads Like A Trading Terminal
 
 This tells a more realistic story than a basic trading page because it shows:
 
