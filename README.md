@@ -17,6 +17,10 @@
 
 This is the most visually ambitious system in the portfolio. It is the repo that most clearly signals trader-workstation thinking: live state, changing numbers, hedge actions, and dense terminal-style layout.
 
+## Preview
+
+![Synthetic market maker terminal](assets/terminal-home.png)
+
 ## What This Project Is
 
 This repo is a public-safe product demo inspired by internal market-making systems.
