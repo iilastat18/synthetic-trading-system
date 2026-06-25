@@ -84,7 +84,7 @@ def render_terminal_header(system: MMSystemState, selected_row: pd.Series, auto_
             f"<div class='terminal-title'>{selected_row['symbol']} · {selected_row['region']} Book</div>"
             "<div class='terminal-copy'>"
             "Single-screen trader view with synthetic market movement, live ISIN drift, regional hedge baskets, "
-            "manual hedge tickets, and basket override controls. Everything here is synthetic and public-safe."
+            "manual hedge tickets, and basket override controls. Everything here is synthetic and built for portfolio presentation."
             "</div>"
             "</div>"
             "<div class='terminal-ribbon'>"

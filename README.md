@@ -10,7 +10,7 @@
   <code>inventory drift</code>
   <code>hedge console</code>
   <code>system UI</code>
-  <code>public-safe synthetic data</code>
+  <code>synthetic data</code>
 </p>
 
 ## Preview
@@ -82,6 +82,6 @@ synthetic-trading-system/
 ## Notes
 
 - All quotes, instruments, ISINs, venues, inventory, baskets, and incidents are synthetic.
-- The goal is to demonstrate internal-tool and trader-workstation product design, not reproduce proprietary company logic.
+- The project focuses on trader-workstation design, workflow density, and market-monitoring behavior.
 - The live feed uses timed page refresh so the system feels active and continuously monitored.
 - The app is intentionally single-page so it feels like a terminal, not a multi-page dashboard site.

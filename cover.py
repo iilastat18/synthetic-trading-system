@@ -56,7 +56,7 @@ st.markdown(
         "<div class='terminal-kicker'>Portfolio Project 04</div>"
         "<div class='terminal-title'>Synthetic Market Maker System</div>"
         "<div class='terminal-copy'>"
-        "A public-safe trading front-end demo with synthetic market movement, live ISIN drift, regional hedge baskets, "
+        "A trading front-end demo with synthetic market movement, live ISIN drift, regional hedge baskets, "
         "and trader workflows like manual hedge tickets and basket overrides."
         "</div>"
         "</div>"
